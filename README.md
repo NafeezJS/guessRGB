@@ -1,2 +1,3 @@
 # guessRGB
-Guess the RGB color.
+
+Match the rgb color with the randomly selected color. 
